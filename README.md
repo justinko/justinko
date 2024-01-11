@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working on OSS until I attain a full-time position.
+Currently focused on attaining a full-time position utilizing Ruby/Rails (and infra, if it's needed).
 
 <!--
 **justinko/justinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
