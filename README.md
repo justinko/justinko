@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently focused on attaining a full-time position utilizing Ruby/Rails (and infra, if it's needed).
+Currently focused on attaining a full-time position.
 
 <!--
 **justinko/justinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
