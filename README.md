@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Currently focused on attaining a full-time position.
+Currently focused on OSS contributions and attaining a full-time position.
+
+Here are some recent pulls:
+
+- https://github.com/rails/rails/pull/51862
+- https://github.com/rails/rails/pull/51716
 
 <!--
 **justinko/justinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
