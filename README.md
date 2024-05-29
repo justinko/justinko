@@ -4,6 +4,7 @@ Currently focused on OSS contributions and attaining a full-time position.
 
 Here are some recent pulls:
 
+- https://github.com/rails/rails/pull/51931
 - https://github.com/rails/rails/pull/51930
 - https://github.com/rails/rails/pull/51920
 - https://github.com/rails/rails/pull/51862
