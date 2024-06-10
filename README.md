@@ -2,7 +2,7 @@
 
 Currently focused on OSS contributions and attaining a full-time position.
 
-Here are some recent pulls:
+Here are some recent pull requests:
 
 - https://github.com/rails/rails/pull/52054
 - https://github.com/rails/rails/pull/51948
@@ -12,10 +12,11 @@ Here are some recent pulls:
 - https://github.com/rails/rails/pull/51862
 - https://github.com/rails/rails/pull/51716
 
-Here are some comments that resulted in resolved issues:
+Here are some notable comments that helped to resolve an issue:
 
+- https://github.com/rails/rails/issues/52070
 - https://github.com/rails/rails/issues/52029
-- https://github.com/rails/rails/issues/51820#issuecomment-2121691451
+- https://github.com/rails/rails/issues/51820
 
 <!--
 **justinko/justinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
