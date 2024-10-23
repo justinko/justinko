@@ -17,6 +17,7 @@ Here are some recent pull requests:
 
 Here are some notable comments that helped to resolve an issue:
 
+- https://github.com/rails/rails/issues/53299#issuecomment-2412654738
 - https://github.com/rails/rails/issues/52070
 - https://github.com/rails/rails/issues/52029
 - https://github.com/rails/rails/issues/51820
