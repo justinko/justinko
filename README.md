@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Currently focused on OSS contributions and attaining a full-time position.
-
 Here are some recent pull requests:
 
 - https://github.com/rails/rails/pull/56354
